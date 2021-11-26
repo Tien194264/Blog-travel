@@ -17,9 +17,8 @@ URL_DATABASE= "Enter the database address"
 
 ACCESS_TOKEN_SECRET=" Create a new SECRET"
 
-
 # run server
 npm start
 
-#run client
+# run client
 npm start
